@@ -8,8 +8,8 @@ scPI: A scalable framework for probabilistic inference insingle-cell RNA-sequenc
 + Pytorch 1.4.0 (version tested)
 
 ## Demo 
-+ Simply follow the given notebook
-+ Output should match the paper
++ Simply follow the given notebook.
++ Output should match the paper.
 
 
 
