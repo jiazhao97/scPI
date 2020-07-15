@@ -9,7 +9,7 @@ scPI: A scalable framework for probabilistic inference insingle-cell RNA-sequenc
 
 ## Demo 
 + Follow the notebooks in "datasets_prepro" to prepare data.
-+ Follow the given demos. Here we provide demos for cortex dataset. If you want to apply scPI to analyze PBMC dataset, you only need to change the "data_path" to match the path where you save the PBMC dataset.
++ Follow the given demos. Here we provide demos for cortex dataset. If you want to apply scPI to analyze PBMC dataset, you only need to change "data_path" to match the path where you save the PBMC dataset.
 + Output should match the paper.
 
 
