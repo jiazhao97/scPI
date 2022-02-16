@@ -13,7 +13,7 @@ scPI: A scalable framework for probabilistic inference insingle-cell RNA-sequenc
 + Output should match the paper.
 
 ## Reference
-+ Ming, J., Zhao, J. & Yang, C. scPI: A Scalable Framework for Probabilistic Inference in Single-Cell RNA-Sequencing Data Analysis. *Statistics in Biosciences* (2022). https://doi.org/10.1007/s12561-022-09335-9. 
++ Jingsi Ming, Jia Zhao, Can Yang. scPI: A Scalable Framework for Probabilistic Inference in Single-Cell RNA-Sequencing Data Analysis. *Statistics in Biosciences* (2022). https://doi.org/10.1007/s12561-022-09335-9. 
 + [PDF](https://rdcu.be/cF7IV).
 
 
